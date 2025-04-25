@@ -1,0 +1,28 @@
+body {
+	background:url(https://c4.wallpaperflare.com/wallpaper/526/8/1002/library-interior-interior-design-books-wallpaper-preview.jpg);
+	background-size: cover;
+	background-position: ;
+	background-repeat: no-repeat;
+}
+
+.absolutecontainer {
+	background: antiquewhite;
+	margin-left: 115px;
+	margin-right: 115px;
+	padding: 25px;
+	border-radius: 10px;
+}
+
+.container {
+	background-color: saddlebrown;
+	border: 5px dashed black;
+	padding: 25px;
+}
+
+h1 {
+	background: sandybrown;
+}
+
+img {
+	margin-left: 500px;
+}
